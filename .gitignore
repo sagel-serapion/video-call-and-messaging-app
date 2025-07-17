@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.prettierrc.local
+coverage/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.Trash-*
+._*
